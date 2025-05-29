@@ -1,0 +1,35 @@
+# ========================
+# Java & IntelliJ .gitignore
+# ========================
+
+# Ignore compiled class files
+*.class
+
+# Ignore build directories
+/out/
+/target/
+/bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.swp
+*.bak
+*.tmp
+
+# Optional: Ignore Gradle/Maven
+/.gradle/
+/build/
+/.settings/
+/*.jar
