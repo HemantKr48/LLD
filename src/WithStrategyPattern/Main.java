@@ -2,7 +2,7 @@ package WithStrategyPattern;
 
 public class Main {
     public static  void main(String[] args){
-        Vehicle vehicle=new GoodsVehicle();
+        Vehicle vehicle=new OffRoadVehicle();
         vehicle.drive();
     }
 }
